@@ -16,6 +16,7 @@ set expandtab
 set autoindent
 set number
 filetype plugin indent on
+set colorcolumn=80
 
 " Note, perl automatically sets foldmethod in the syntax file
 "autocmd Syntax c,cpp,vim,xml,html,xhtml,lua setlocal foldmethod=syntax
