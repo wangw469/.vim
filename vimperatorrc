@@ -1,0 +1,8 @@
+"3.13.1 (created: 2016/05/04 01:34:00)
+
+map <C-j> :tabp<Return>
+map <C-k> :tabn<Return>
+set statuslinevisibility=visible
+source! /Users/xp/.vimperatorrc.local
+
+" vim: set ft=vimperator:
