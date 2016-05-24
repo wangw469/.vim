@@ -4,5 +4,6 @@ map <C-j> :tabp<Return>
 map <C-k> :tabn<Return>
 set statuslinevisibility=visible
 set gui=none,tabs,navigation
+set cpt=l
 
 " vim: set ft=vimperator:
