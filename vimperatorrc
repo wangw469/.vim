@@ -3,6 +3,6 @@
 map <C-j> :tabp<Return>
 map <C-k> :tabn<Return>
 set statuslinevisibility=visible
-source! /Users/xp/.vimperatorrc.local
+set gui=none,tabs,navigation
 
 " vim: set ft=vimperator:
