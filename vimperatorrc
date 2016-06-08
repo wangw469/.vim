@@ -3,7 +3,8 @@
 map <C-j> :tabp<Return>
 map <C-k> :tabn<Return>
 set statuslinevisibility=visible
-set gui=none,bookmarks
+set gui=none
+set! browser.tabs.closeWindowWithLastTab=false
 set cpt=l
 highlight! Hint font-family: monospace; font-size: 16px; font-weight: bold; text-transform: uppercase; color: white; background-color: red; border-color: ButtonShadow; border-width: 0px; border-style: solid; padding: 0px 1px 0px 1px;
 set hintchars=hjklasdfgyuiopqwertnmzxcvb
