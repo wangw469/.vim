@@ -4,7 +4,7 @@ set guifont=courier\ new:h18
 syntax on
 
 "color blue
-set background=dark
+"set background=dark
 
 set complete-=i
 
